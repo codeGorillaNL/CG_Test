@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Regular';
+  src: url('');
+}
+
 nav {
   border-bottom: 1px solid #000;
 }
